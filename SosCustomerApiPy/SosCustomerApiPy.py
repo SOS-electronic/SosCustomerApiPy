@@ -7,8 +7,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class CustomerApiDemo:
     def __init__(self):
-        self.base_url = "https://api-customer.sos.sk"
-        # Tvoj API kľúč z C# kódu
+        self.base_url = "https://api-customer.sos.sk"        
         self.sos_api_key = "ZGVtbzo5NUtqblNVWkdYU0c3bTdPa2RHTzlrUDhabnp2TTd1UA=="
         self.current_token = None
 
