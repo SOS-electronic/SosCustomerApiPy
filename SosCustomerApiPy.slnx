@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="SosCustomerApiPy/SosCustomerApiPy.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="95f0a2a6-0c4c-4d73-aed6-58cc8659b178">
+    <Build Project="false" />
+  </Project>
+</Solution>
